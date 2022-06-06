@@ -1,6 +1,6 @@
 # 쇼핑몰 웹 서비스 - 기본 코드 Heroku 배포
 
-<div align='center'>
+<div>
 
 <img alt="쇼핑-데모 로고" src="https://i.ibb.co/xSZHxmy/image.png">
 
