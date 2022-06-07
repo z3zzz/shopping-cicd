@@ -21,6 +21,7 @@
 2. 카테고리 관련 CRUD, 제품 관련 CRUD, 주문 관련 CRUD할 할 수 있습니다.
 3. 장바구니 관련 기능을 프론트 단에서 수행할 수 있습니다.  
 4. 관리자 페이지가 있습니다.
+5. 추가 기능 ???
 
 <br />
 
@@ -34,31 +35,41 @@
 
 <details><summary>카테고리 추가 및 반영</summary>
 
-관련 영상 삽입해야 함 
-
+관련 영상 삽입해야 함 (하기 2가지 방법 가능)
+1. 화면녹화 -> 유튜브 업로드 -> 유튜브 링크 삽입  
+2. 화면움짤녹화 -> 움짤삽입 (https://www.screentogif.com/ 활용가능)
+   
 </details>
 
 <details><summary>제품 추가 및 반영</summary>
 
-관련 영상 삽입해야 함 
+관련 영상 삽입해야 함 (하기 2가지 방법 가능)
+1. 화면녹화 -> 유튜브 업로드 -> 유튜브 링크 삽입  
+2. 화면움짤녹화 -> 움짤삽입 (https://www.screentogif.com/ 활용가능)
 
 </details>
 
 <details><summary>장바구니 기능</summary>
 
-관련 영상 삽입해야 함 
+관련 영상 삽입해야 함 (하기 2가지 방법 가능)
+1. 화면녹화 -> 유튜브 업로드 -> 유튜브 링크 삽입  
+2. 화면움짤녹화 -> 움짤삽입 (https://www.screentogif.com/ 활용가능)
 
 </details>
 
 <details><summary>주문 기능</summary>
 
-관련 영상 삽입해야 함 
+관련 영상 삽입해야 함 (하기 2가지 방법 가능)
+1. 화면녹화 -> 유튜브 업로드 -> 유튜브 링크 삽입  
+2. 화면움짤녹화 -> 움짤삽입 (https://www.screentogif.com/ 활용가능)
 
 </details>
 
 <details><summary>관리자 페이지</summary>
 
-관련 영상 삽입해야 함 
+관련 영상 삽입해야 함 (하기 2가지 방법 가능)
+1. 화면녹화 -> 유튜브 업로드 -> 유튜브 링크 삽입  
+2. 화면움짤녹화 -> 움짤삽입 (https://www.screentogif.com/ 활용가능)
 
 </details>
 
