@@ -155,12 +155,3 @@
   </p>
 
 </details>
-<details><summary>2. 기본 코드 말고, 서비스 전체 버전은 없나요?</summary>
-
-  <p>
-    아래 링크에서 확인하실 수 있습니다. <br>
-    Heroku 배포: https://shopping-mall-kwang.herokuapp.com/ <br>
-    Github 주소: https://github.com/z3zzz/shopping-mall-kwang 
-  </p>
-
-</details>
