@@ -111,34 +111,32 @@
 
 1. 레포지토리를 클론하고자 하는 디렉토리에서 아래 명령어를 수행
 
-   ```
-   git clone <레포지토리 주소>
-   ```
+```bash
+git clone <레포지토리 주소>
+```
 
 
 2. 클론한 디렉토리에서 backend 디렉토리로 들어가 아래 명령어를 통해 backend에서 필요한 module 설치
 
-   ```
-   npm install
-   ```
+```bash
+npm install
+```
 
 
 3. backend에서 필요한 `.env` 설정
 
-- 아래 설명에 따라 환경변수 설정
-
-  ```
-  MONGODB_URL=<몽고DB URL>
-  PORT=5000
-  JWT_SECERT_KEY=<랜덤 문자열>
-  ```
+```bash
+MONGODB_URL=<몽고DB URL>
+PORT=5000
+JWT_SECERT_KEY=<랜덤 문자열>
+```
 
 
 4. express 앱을 실행
 
-   ```
-   npm run start
-   ```
+```bash
+npm run start
+```
 
 <br>
 
